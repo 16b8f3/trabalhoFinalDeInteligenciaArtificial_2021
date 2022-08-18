@@ -1,0 +1,2 @@
+# trabalhoFinalDeInteligenciaArtificial_2021
+Esse foi o trabalho final de Inteligencia Artificial, eu não ia colocar ele aqui mas estou concorendo a uma vaga em um estagio que vai ter como linguagem Python e aqui no meu GitHub não tem nada meu em Python então decidi colocar esse trabalho, está com muitos erros alguns que eu conheço e não sei resolver sem quebrar o codigo todo e outros que nem sei que existem.
